@@ -1,7 +1,6 @@
 import yfinance as yf
 import matplotlib.pyplot as plt 
 import numpy as np
-#!matplotlib inline
 import sklearn 
 import pandas as pd
 import seaborn as sns
