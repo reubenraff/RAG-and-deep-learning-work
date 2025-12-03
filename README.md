@@ -1,0 +1,1 @@
+This repository uses transcribed podcast data from Prof G Markets (I don't own or claim to own the data it is not my property.) The repo demonstrates basic a basic RAG pipeline, as well as an LSTM for modeling time series data in stock performance. 
